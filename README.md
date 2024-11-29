@@ -1,4 +1,4 @@
-<h2 align="center">Bem-Vindo , Sou o Vinícius , cursando curso Técnico de Desenvolvimento de Sistemas</h2>
+<h2 align="center">Bem-Vindo , Sou o Vinícius</h2>
 
 ###
 
