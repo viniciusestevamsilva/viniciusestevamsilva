@@ -1,6 +1,6 @@
 <br clear="both">
 
-<h2 align="center">Seja Bem-Vindo
+<h2 align="center">Seja Bem-Vindo ❗
 
 ###
 
