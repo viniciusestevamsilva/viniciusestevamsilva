@@ -3,7 +3,7 @@
 <h2 align="center">Seja Bem-Vindo ❗
 
 ###
-<i align="center">Estou aprendendo programação e sobre Tecnologias
+<i1 align="center">Estou aprendendo programação e sobre Tecnologias
 <br clear="both">
 
 <div align="center">
