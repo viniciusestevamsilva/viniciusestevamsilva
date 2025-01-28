@@ -1,6 +1,6 @@
 <br clear="both">
 
-<img align="right" height="100" src="https://user-images.githubusercontent.com/74038190/212281775-b468df30-4edc-4bf8-a4ee-f52e1aaddc86.gif"  />
+<img align="right" height="80" src="https://user-images.githubusercontent.com/74038190/212281775-b468df30-4edc-4bf8-a4ee-f52e1aaddc86.gif"  />
 
 <h1 align="left"> - Seja Bem-Vindo ❗</h1>
 
