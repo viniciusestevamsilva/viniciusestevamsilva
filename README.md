@@ -1,6 +1,6 @@
 <br clear="both">
 
-<h1 align="left">- Seja Bem-Vindo ❗</h1>
+<h1 align="left"> - Seja Bem-Vindo ❗</h1>
 
 ###
 <h4 align="center">Estou aprendendo programação e sobre Tecnologias, e coloco tudo que estou aprendendo e oque ja aprendi aqui.
@@ -17,7 +17,7 @@
 
 
 ###
-<h1 align="left">Oque estou programando e aprendendo:</h1>
+<h1 align="left"> - Oque estou programando e aprendendo:</h1>
 <br clear="both">
 
 <img align="right" height="150" src="https://user-images.githubusercontent.com/74038190/212257468-1e9a91f1-b626-4baa-b15d-5c385dfa7ed2.gif"  />
