@@ -5,6 +5,7 @@
 <h1 align="left"> - Seja Bem-Vindo ❗</h1>
 
 ###
+
 <h4 align="center">Estou aprendendo programação e sobre Tecnologias, e coloco tudo que estou aprendendo e oque ja aprendi aqui.
 <br clear="both">
 
@@ -19,6 +20,7 @@
 
 
 ###
+
 <h1 align="left"> - Oque estou programando e aprendendo:</h1>
 <br clear="both">
 
