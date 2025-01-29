@@ -44,12 +44,3 @@
 </div>
 
 ###
-
-<br clear="both">
-
-<div align="center">
-  <img src="https://streak-stats.demolab.com?user=viniciusestevamsilva&locale=pt-br&mode=daily&theme=github_dark&hide_border=true&border_radius=1" height="150" alt="streak graph"  />
-
-</div>
-
-###
