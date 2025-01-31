@@ -54,7 +54,7 @@
 <div align="left">
   <img src="https://user-images.githubusercontent.com/74038190/235294013-a33e5c43-a01c-43f6-b44d-a406d8b4ab75.gif" width="40" height="50" alt="instagram logo"  />
   <img src="https://user-images.githubusercontent.com/74038190/235294015-47144047-25ab-417c-af1b-6746820a20ff.gif" width="40" height="50" alt="discord logo"  />
-  <img src="[https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/gmail/default.svg](https://www.google.com/url?sa=i&url=https%3A%2F%2Fgithub.com%2Ftopics%2Fgmail%3Fl%3Dshell%26o%3Ddesc%26s%3Dupdated&psig=AOvVaw3mavYT6aBYGp1rs9JGupEv&ust=1738448765979000&source=images&cd=vfe&opi=89978449&ved=0CBQQjRxqFwoTCMjrvLuAoYsDFQAAAAAdAAAAABAE)" width="40" height="50" alt="gmail logo"  />
+  <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/gmail/default.svg" width="40" height="50" alt="gmail logo"  />
 </div>
 
 ###
