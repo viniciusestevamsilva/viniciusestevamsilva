@@ -2,11 +2,11 @@
 
 <img align="right" height="76" src="https://user-images.githubusercontent.com/74038190/212281775-b468df30-4edc-4bf8-a4ee-f52e1aaddc86.gif"  />
 
-<h1 align="left"> - Seja Bem-Vindo ❗</h1>
+<h2 align="left"> - Seja Bem-Vindo ❗</h2>
 
 ###
 
-<h4 align="center">Estou aprendendo programação e sobre Tecnologias, e coloco tudo que estou aprendendo e oque ja aprendi aqui.
+<h4 align="left">Estou aprendendo programação e sobre Tecnologias, e coloco tudo que estou aprendendo e oque ja aprendi aqui.<br>
 <br clear="both">
 
 <div align="center">
@@ -22,7 +22,7 @@
 
 ###
 
-<h1 align="left"> - Oque estou programando e aprendendo:</h1>
+<h2 align="left"> - Oque estou programando e aprendendo:</h2>
 <br clear="both">
 
 <img align="right" height="150" src="https://user-images.githubusercontent.com/74038190/212284087-bbe7e430-757e-4901-90bf-4cd2ce3e1852.gif"  />
@@ -42,6 +42,19 @@
   <img width="40" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sqlite/sqlite-original.svg" height="50" alt="sqlite logo"  />
   <img width="40" />
+</div>
+
+###
+
+<h2 align="left">- Meios de contato</h2>
+<br clear="both">
+
+###
+
+<div align="left">
+  <img src="https://user-images.githubusercontent.com/74038190/235294013-a33e5c43-a01c-43f6-b44d-a406d8b4ab75.gif" width="40" height="50" alt="instagram logo"  />
+  <img src="https://user-images.githubusercontent.com/74038190/235294015-47144047-25ab-417c-af1b-6746820a20ff.gif" width="40" height="50" alt="discord logo"  />
+  <img src="[https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/gmail/default.svg](https://www.google.com/url?sa=i&url=https%3A%2F%2Fgithub.com%2Ftopics%2Fgmail%3Fl%3Dshell%26o%3Ddesc%26s%3Dupdated&psig=AOvVaw3mavYT6aBYGp1rs9JGupEv&ust=1738448765979000&source=images&cd=vfe&opi=89978449&ved=0CBQQjRxqFwoTCMjrvLuAoYsDFQAAAAAdAAAAABAE)" width="40" height="50" alt="gmail logo"  />
 </div>
 
 ###
