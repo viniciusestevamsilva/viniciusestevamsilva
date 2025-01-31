@@ -6,7 +6,7 @@
 
 ###
 
-<h4 align="left">Estou aprendendo programação e sobre Tecnologias<br> e coloco tudo que estou aprendendo e oque ja aprendi aqui.<br>Ja finalizei meus estudos do ensino medio<br>Estou procurando me formar nessa aerea de tecnologia<br>
+<h4 align="left">Estou aprendendo programação e sobre Tecnologias<br> e coloco tudo que estou aprendendo e oque ja aprendi aqui.<br>Estou procurando me formar nessa aerea de tecnologia<br>Alem de melhorar minhas habilidades com códigos<br>
 <br clear="both">
 
 <div align="center">
