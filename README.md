@@ -35,25 +35,10 @@
   <img width="40" />
   <img src="https://user-images.githubusercontent.com/74038190/212257472-08e52665-c503-4bd9-aa20-f5a4dae769b5.gif" height="50" alt="python logo"  />
   <img width="40" />
-  <img src="https://media.tenor.com/A3QDTBkXjSsAAAAi/lua.gif" height="50" alt="lua logo"  />
-  <img width="40" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="50" alt="mysql logo"  />
   <img width="40" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sqlite/sqlite-original.svg" height="50" alt="sqlite logo"  />
   <img width="40" />
-</div>
-
-###
-
-<h2 align="left"> - Meios de contato</h2>
-<br clear="both">
-
-###
-
-<div align="left">
-  <img src="https://user-images.githubusercontent.com/74038190/235294013-a33e5c43-a01c-43f6-b44d-a406d8b4ab75.gif" width="60" height="70" alt="instagram logo"  />
-  <img src="https://user-images.githubusercontent.com/74038190/235294015-47144047-25ab-417c-af1b-6746820a20ff.gif" width="60" height="70" alt="discord logo"  />
-  <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/gmail/default.svg" width="60" height="70" alt="gmail logo"  />
 </div>
 
 ###
