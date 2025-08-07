@@ -7,7 +7,7 @@
 ###
 
 <h4 align="left">Venho me dedicando aos estudos para ingressar na área de tecnologia,  com o objetivo de alavancar meu aprendizado e desenvolvimento profissional.
-Sou atencioso , organizado, com facilidade em trabalhar em equipe, interagir com diferentes perfis e me adaptar a novos desafios.
+<br>
   <br>Tenho interesse em aprender mais sobre infraestrutura de TI, especialmente nas áreas de redes, sistemas operacionais (Windows/Linux) e segurança da informação, que pretendo aprofundar futuramente.
 <br>
 <br clear="both">
