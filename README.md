@@ -6,7 +6,10 @@
 
 ###
 
-<h4 align="left">Estou aprendendo programação e sobre Tecnologias<br> e coloco tudo que estou aprendendo e oque ja aprendi aqui.<br>Estou procurando me formar nessa aerea de tecnologia<br>Alem de melhorar minhas habilidades com códigos<br>
+<h4 align="left">Venho me dedicando aos estudos para ingressar na área de tecnologia,  com o objetivo de alavancar meu aprendizado e desenvolvimento profissional.
+Sou atencioso , organizado, com facilidade em trabalhar em equipe, interagir com diferentes perfis e me adaptar a novos desafios.
+  <br>Tenho interesse em aprender mais sobre infraestrutura de TI, especialmente nas áreas de redes, sistemas operacionais (Windows/Linux) e segurança da informação, que pretendo aprofundar futuramente.
+<br>
 <br clear="both">
 
 <div align="center">
