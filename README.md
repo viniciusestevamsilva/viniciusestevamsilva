@@ -1,29 +1,11 @@
+<h1>Vinícius E. da Silva <img  src="https://user-images.githubusercontent.com/74038190/216656963-09118229-8a9e-4af0-910c-c37f35f2e210.gif" width="60" height="60" align="right"> </h1>
 <br clear="both">
 
-###
-
-<h4 align="left">Venho me dedicando aos estudos para ingressar na área de tecnologia,  com o objetivo de alavancar meu aprendizado e desenvolvimento profissional.
-<br>
-  <br>Tenho interesse em aprender mais sobre infraestrutura de TI, especialmente nas áreas de redes, sistemas operacionais (Windows/Linux) e segurança da informação, que pretendo aprofundar futuramente.
-<br>
+<p align="left">Ola! tenho 18 anos e venho me dedicando aos estudos para ingressar na área de tecnologia,  com o objetivo de alavancar meu aprendizado e desenvolvimento profissional.</p>
 <br clear="both">
 
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=viniciusestevamsilva&hide_title=true&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=github_dark&locale=pt-br&hide_border=true" height="150" alt="stats graph"  />
-   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=viniciusestevamsilva&locale=pt-br&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=github_dark&hide_border=true" height="150" alt="languages graph"  />
-</div>
-</div>
-
-###
-
+<h2 align="left"> :clipboard: Ferramentas e tenologias que estou utilizando:</h2>
 <br clear="both">
-
-
-###
-
-<h2 align="left"> - Oque estou programando e aprendendo:</h2>
-<br clear="both">
-
 
 <div align="left">
   <img src="https://user-images.githubusercontent.com/74038190/212257454-16e3712e-945a-4ca2-b238-408ad0bf87e6.gif" height="50" alt="javascript logo"  />
@@ -41,5 +23,12 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sqlite/sqlite-original.svg" height="50" alt="sqlite logo"  />
   <img width="40" />
 </div>
+<br clear="both">
 
-###
+<div align="left">
+  <img src="https://github-readme-stats.vercel.app/api?username=viniciusestevamsilva&hide_title=true&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=github_dark&locale=pt-br&hide_border=true" height="150" alt="stats graph"  />
+   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=viniciusestevamsilva&locale=pt-br&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=github_dark&hide_border=true" height="150" alt="languages graph"  />
+</div>
+</div>
+
+<br clear="both">
