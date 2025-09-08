@@ -4,7 +4,7 @@
 <p align="left">Ola! tenho 18 anos e venho me dedicando aos estudos para ingressar na área de tecnologia,  com o objetivo de alavancar meu aprendizado e desenvolvimento profissional.</p>
 <br clear="both">
 
-<h2 align="left"> :clipboard: Ferramentas e tenologias que estou utilizando:</h2>
+<h2 align="left"> :clipboard: Ferramentas e tenologias que estou utilizando: <img  src="https://user-images.githubusercontent.com/74038190/216655848-cf4d7bed-52aa-4740-8c67-1832472051ec.gif" width="60" height="60" align="right"></h2>
 <br clear="both">
 
 <div align="left">
